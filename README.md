@@ -1,2 +1,2 @@
 ### Hello there 👋
-Physics BSc. Currently studing a MSc in High Performance Computing. Experienced in the field of numerical simulations and statistical modeling in scientific applications. Working as an iOS Developer.
+Physics BSc. Dropped out of a MSc in High Performance Computing (who the fuck teaches OpenCL in 2024?). I like numerical simulations and statistical modeling in scientific applications. Working as an iOS Developer.
